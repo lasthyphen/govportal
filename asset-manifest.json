@@ -1,0 +1,19 @@
+{
+  "vendors~dapp~polyfills.js": "/./static/js/vendors~dapp~polyfills.d5007b41.chunk.js",
+  "vendors~dapp~polyfills.js.map": "/./static/js/vendors~dapp~polyfills.d5007b41.chunk.js.map",
+  "dapp.css": "/./static/css/dapp.f405e779.chunk.css",
+  "dapp.js": "/./static/js/dapp.249d0e5b.chunk.js",
+  "dapp.css.map": "/./static/css/dapp.f405e779.chunk.css.map",
+  "dapp.js.map": "/./static/js/dapp.249d0e5b.chunk.js.map",
+  "polyfills.js": "/./static/js/polyfills.054813ad.chunk.js",
+  "polyfills.js.map": "/./static/js/polyfills.054813ad.chunk.js.map",
+  "runtime~dapp.js": "/./static/js/runtime~dapp.e88c08cb.js",
+  "runtime~dapp.js.map": "/./static/js/runtime~dapp.e88c08cb.js.map",
+  "runtime~polyfills.js": "/./static/js/runtime~polyfills.f9a7e4d8.js",
+  "runtime~polyfills.js.map": "/./static/js/runtime~polyfills.f9a7e4d8.js.map",
+  "vendors~dapp.js": "/./static/js/vendors~dapp.b290dc70.chunk.js",
+  "vendors~dapp.js.map": "/./static/js/vendors~dapp.b290dc70.chunk.js.map",
+  "vendors~polyfills.js": "/./static/js/vendors~polyfills.e129fa69.chunk.js",
+  "vendors~polyfills.js.map": "/./static/js/vendors~polyfills.e129fa69.chunk.js.map",
+  "index.html": "/index.html"
+}
